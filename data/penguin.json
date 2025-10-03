@@ -1,0 +1,602 @@
+[
+  {
+    "link": "https://www.penguin.co.uk/books/183689/pride-and-prejudice-by-austen-jane/9780141199078",
+    "title": "Pride and Prejudice",
+    "authors": "Jane Austen",
+    "description": "Philosophy, history, wit, and the most passionate love story."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/410048/to-kill-a-mockingbird-by-harper-lee/9781784752637",
+    "title": "To Kill A Mockingbird",
+    "authors": "Harper Lee",
+    "description": "A jarring & poignantly beautiful story about how humans treat each other."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/56606/the-great-gatsby-by-fitzgerald-f-scott/9780241341469",
+    "title": "The Great Gatsby",
+    "authors": "F. Scott Fitzgerald",
+    "description": "The greatest, most scathing dissection of the hollowness at the heart of the American dream. Hypnotic, tragic, both of its time and completely relevant."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/56215/one-hundred-years-of-solitude-by-marquez-gabriel-garcia/9780241968581",
+    "title": "One Hundred Years of Solitude",
+    "authors": "Gabriel García Márquez",
+    "description": "Magic realism at its best. Both funny and moving, this book made me reflect for weeks on the inexorable march of time."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/57020/in-cold-blood-by-capote-truman/9780141182575",
+    "title": "In Cold Blood",
+    "authors": "Truman Capote",
+    "description": "In this groundbreaking novel, completed after six arduous years of research, Capote invented a new genre - the 'Nonfiction Novel' - applying prose techniques to fact. It spawned the school of New Journalism & invented the true crime genre as we know it."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/57281/wide-sargasso-sea-by-jean-rhys/9780241281901",
+    "title": "Wide Sargasso Sea",
+    "authors": "Jean Rhys",
+    "description": "Rhys took a character from a classic novel and breathed new life into the “madwoman in the attic” based on her own experiences/world view. She beautifully showed how the stories we read fold into our lives to make new stories."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/431950/brave-new-world-by-aldous-huxley/9781784870140",
+    "title": "Brave New World",
+    "authors": "Aldous Huxley",
+    "description": "Given the exponential growth of AI, Machine Learning & Robotics, Huxley's vision acts as a warning. Will we rise and challenge those who seek to shape our future or sleepwalk toward conditioning by technology?"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/296874/i-capture-the-castle-by-dodie-smith/9780141371504",
+    "title": "I Capture the Castle",
+    "authors": "Dodie Smith",
+    "description": "A 'children's book' that speaks volumes (ha) about unrequited love and dysfunctional families. Timeless. And funny. (and we need some laughs on the 100 Classics list!)"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/34231/jane-eyre-by-bronte-charlotte/9780141040387",
+    "title": "Jane Eyre",
+    "authors": "Charlotte Brontë",
+    "description": "I read this in English lessons aged 13. Jane's defiance and courage speaks as much to me now as it did 50 years ago. I spent 25 years as an English teacher and introduced Jane to students as often as I could."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/35469/crime-and-punishment-by-fyodor-dostoyevsky-trans-david-mcduff/9780140449136",
+    "title": "Crime and Punishment",
+    "authors": "Fyodor Dostoyevsky",
+    "description": "No other novel has made me feel so much for the main characters, so deeply depicted by the author. I felt like an orphan when I finished it and it's the only novel I've re-read several times."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/133251/the-secret-history-by-tartt-donna/9780241621905",
+    "title": "The Secret History",
+    "authors": "Donna Tartt",
+    "description": ": A modern classic - so well-articulated and written (something that’s hard to come by these days). Also, EXCELLENT PLOT!"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/308828/the-call-of-the-wild-by-london-jack/9780241341490",
+    "title": "The Call of the Wild",
+    "authors": "Jack London",
+    "description": "Because everyone who loves the earth knows it’s true."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/55906/persuasion-by-jane-austen-intro-and-notes-gillian-beer/9780141197692",
+    "title": "Persuasion",
+    "authors": "Jane Austen",
+    "description": "It's a beautiful evocation of longing against sense and reason, of forgiveness and second chances."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/291037/les-miserables-by-hugo-victor/9780241248744",
+    "title": "Les Misérables",
+    "authors": "Victor Hugo",
+    "description": "A beautiful story of the power of redemption and a good heart along with a backdrop of the socio-economic iniquities of 19th century France. Beautifully written, it tugs the heartstrings."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/62240/moby-dick-by-herman-melville-intro-andrew-delbanco-notes-tom-quirk-commentary-tom-quirk/9780142437247",
+    "title": "Moby-Dick",
+    "authors": "Herman Melville",
+    "description": "The writing is sublime, the settings are vivid, and all the little sub-plots are riveting: an historical adventure revenge tale that stands up as a true classic."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/57101/to-the-lighthouse-by-woolf-virginia/9780241341681",
+    "title": "To the Lighthouse",
+    "authors": "Virginia Woolf",
+    "description": "You feel like you’re stood on top of a cliff with the sea breeze blowing right through your bones."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/354992/the-death-of-the-heart-by-bowen-elizabeth/9780099276456",
+    "title": "The Death Of The Heart",
+    "authors": "Elizabeth Bowen",
+    "description": "This book captures the awkward tension and anxieties of the interwar period through a deeply reflective, but oddly naive, unloved girl. ‏"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/183673/frankenstein-by-shelley-mary/9780141973883",
+    "title": "Frankenstein",
+    "authors": "Mary Shelley",
+    "description": "Chosen for all the questions it raises about consequences and taking responsibility for your actions; nature versus nurture; the value of friendship. I could go on."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/407589/the-master-and-margarita-by-bulgakov-mikhail/9780099540946",
+    "title": "The Master and Margarita",
+    "authors": "Mikhail Bulgakov",
+    "description": "This is the masterpiece of Mikhail Bulgakov, his magnum opus. About life and death in Communist Russia, and also about greater things: the power of forgiveness and eternal life."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/57119/the-go-between-by-hartley-l-p/9780141187785",
+    "title": "The Go-between",
+    "authors": "L. P. Hartley",
+    "description": "As a 17-year-old, I was completely absorbed by this story, wishing Leo was my brother so that I could protect him from the disappointment that awaited him."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/35081/the-iliad-by-homer-translated-with-an-introduction-by-martin-hammond/9780140444445",
+    "title": "The Iliad",
+    "authors": "Homer",
+    "description": "This is the ultimate war poem, filled with existential drama, heroic striving, death, and the meaning of life."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/55626/one-flew-over-the-cuckoos-nest-by-ken-kesey-preface--ken-kesey-intro--robert-fraggen/9780141187884",
+    "title": "One Flew Over the Cuckoo's Nest",
+    "authors": "Ken Kesey",
+    "description": "A story that shows there is more to life than following rules. Having joy and being spontaneous are as important as anything else in life."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/406945/nineteen-eighty-four-by-george-orwell/9781787302549",
+    "title": "Nineteen Eighty-Four",
+    "authors": "George Orwell",
+    "description": "A study in totalitarianism, it's as relevant today as when Orwell wrote it. It's a nightmare, also a work of pure genius."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/21252/the-catcher-in-the-rye-by-salinger-jd/9780241950432",
+    "title": "The Catcher in the Rye",
+    "authors": "J. D. Salinger",
+    "description": "Alma E, X (formerly Twitter)"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/354913/beloved-by-morrison-toni/9781784878672",
+    "title": "Beloved",
+    "authors": "Toni Morrison",
+    "description": "This book is amazing. Beautifully written, haunting and the level of detail of the lengths people went to protect their families from slavery is fantastic."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/371353/the-code-of-the-woosters-by-pg-wodehouse/9781841591001",
+    "title": "The Code Of The Woosters",
+    "authors": "P.G. Wodehouse",
+    "description": "The best of the Bertie and Jeeves novels by Wodehouse, the 20th century master of the light comic novel. Intricate plotting and brilliant command of English prose."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/55632/dracula-by-bram-stoker/9780141439846",
+    "title": "Dracula",
+    "authors": "Bram Stoker",
+    "description": "A Gothic tale of fear and love. Would one desire immortality at the cost of one’s morality and soul? Loneliness beckons down such a dangerous and fearful path."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/57559/the-outsiders-by-se-hinton-intro-jodi-picoult/9780141189116",
+    "title": "The Outsiders",
+    "authors": "S.E. Hinton",
+    "description": "The original YA novel, which sparked many crushes and made me fall in love with reading."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/448078/the-chrysalids-by-john-wyndham-introduction-by-m-john-harrison/9780141181479",
+    "title": "The Chrysalids",
+    "authors": "John Wyndham",
+    "description": "Hollie B, X (formerly Twitter)"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/301515/war-and-peace-by-leo-tolstoy/9780141959801",
+    "title": "War And Peace",
+    "authors": "Leo Tolstoy",
+    "description": "This novel is just gripping and beautifully written. Kept me enthralled for weeks..."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/60338/great-expectations-by-charles-dickens-ed-charlotte-mitchell-intro-david-trotter/9780141439563",
+    "title": "Great Expectations",
+    "authors": "Charles Dickens",
+    "description": "This book is not only important as a literary masterpiece and an evocative story - it also has universal appeal as, unfortunately, many children in today's world undergo the same suffering as Pip."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/57370/another-country-by-james-baldwin-with-an-introduction-by-colm-toibin/9780141186375",
+    "title": "Another Country",
+    "authors": "James Baldwin",
+    "description": "This is a book that shows how everyone can live and love together, passionately, dangerously, with exquisite music.  I’ll never forget the thrill of first reading it."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/358290/catch-22-by-heller-joseph/9780099470465",
+    "title": "Catch-22",
+    "authors": "Joseph Heller",
+    "description": "Sam W, X (formerly Twitter)"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/17515/the-age-of-innocence-by-edith-wharton-edited-with-an-introduction-by-cynthia-griffin-wolff-notes-by-laura-dluzynski-quinn/9780140189704",
+    "title": "The Age of Innocence",
+    "authors": "Edith Wharton",
+    "description": "The most heart-wrenching depiction of impossible love, set in the lavish society of 18th century New York. Beautifully detailed but never alienating, with rich characters and a masterful construction."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/55499/things-fall-apart-by-chinua-achebe/9780141023380",
+    "title": "Things Fall Apart",
+    "authors": "Chinua Achebe",
+    "description": "A compelling and important exploration of cultural identity in relation to both the rising tide of British colonialism and the pressures of gender expectations. A poignant tragedy written with pathos. Necessary reading!"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/60337/middlemarch-by-george-eliot-ed-rosemary-ashton-intro-rosemary-ashton/9780141439549",
+    "title": "Middlemarch",
+    "authors": "George Eliot",
+    "description": "This book is superb in form and content. There is no better dissection of and insight into human society. She was the Shakespeare of her day and  is her finest novel."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/429196/rebecca-by-daphne-du-maurier/9781405628648",
+    "title": "Rebecca",
+    "authors": "Daphne du Maurier",
+    "description": "When I read the opening line I feel as though I’m visiting an old friend. From the sinister Mrs Danvers to the naive Mrs de Winter the suspense of the mystery and the atmosphere of Manderley is captured perfectly. Each time I read it I discover something new."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/55964/tess-of-the-durbervilles-by-thomas-hardy-ed-tim-dolin-intro-margaret-higonnet/9780141439594",
+    "title": "Tess of the D'Urbervilles",
+    "authors": "Thomas Hardy",
+    "description": "This novel teaches us about the position of women in the past and their moments of frailty versus moments of strength. An important insight for everyone to have!"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/60352/vanity-fair-by-william-thackeray-ed--john-carey-intro--john-carey/9780141199542",
+    "title": "Vanity Fair",
+    "authors": "William Makepeace Thackeray",
+    "description": "Becky Sharp is the greatest female lead character in English literature. Bar none."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/56538/brideshead-revisited-by-evelyn-waugh/9780141182483",
+    "title": "Brideshead Revisited",
+    "authors": "Evelyn Waugh",
+    "description": "I can never get over the melancholy that weaves its way through this novel. The beautiful writing, the damaged characters and the echoes of a dream that is broken - all add up to a story that stays with me long after I have finished reading it."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/35468/madame-bovary-by-gustave-flaubert-trans-geoffrey-wall/9780140449129",
+    "title": "Madame Bovary",
+    "authors": "Gustave Flaubert",
+    "description": "This book was published in 1857 and yet her level of dissatisfaction is probably relatable to everyone in this era."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/183666/the-mill-on-the-floss-by-charles-dickens/9780141198910",
+    "title": "The Mill on the Floss",
+    "authors": "George Eliot",
+    "description": "One classic everyone must read:  by George Eliot. A beautifully told story of an intelligent girl who yearns for more than society allows."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/424324/barchester-towers-by-trollope-anthony/9780099595885",
+    "title": "Barchester Towers",
+    "authors": "Anthony Trollope",
+    "description": "This book has tremendous characters and a plot which sucks you into such a different world, about which you find yourself caring desperately."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/24388/lady-chatterleys-lover-by-lawrence-d-h/9780241951545",
+    "title": "Lady Chatterley's Lover",
+    "authors": "D. H. Lawrence",
+    "description": "There are so many themes and insights including gender and class in particular. The sex scenes are actually surprisingly sexy, from both perspectives, for a book of this age."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/35482/the-count-of-monte-cristo-by-alexandre-dumas-trans--robin-buss-intro--robin-buss/9780141392462",
+    "title": "The Count of Monte Cristo",
+    "authors": "Alexandre Dumas",
+    "description": "The best classic tale! A story of innocence, romance, betrayal, suffering, revenge and more importantly, Man’s triumph over all life throws at him."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/26143/the-grapes-of-wrath-by-steinbeck-john/9780141185064",
+    "title": "The Grapes of Wrath",
+    "authors": "John Steinbeck",
+    "description": "Migration in search of work and a better future. A modern-day story. Still makes my skin tingle."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/57043/ulysses-by-joyce-james/9780141182803",
+    "title": "Ulysses",
+    "authors": "James Joyce",
+    "description": "Reading it as a person, an emotional journey. Reading it as a writer, is technically mesmerizing and inspiring"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/26145/east-of-eden-by-steinbeck-john/9780241980354",
+    "title": "East of Eden",
+    "authors": "John Steinbeck",
+    "description": "Brilliant writing, epic family saga, drills deep into human nature and how we think, feel and act toward one another. My all-time favourite novel."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/423095/the-lord-of-the-rings-the-trilogy-by-jrr-tolkien/9780563528883",
+    "title": "The Lord Of The Rings: The Trilogy",
+    "authors": "J.R.R. Tolkien",
+    "description": "It's got the great sweeping story, romance, heroism, self-sacrifice, social commentary... it's not just magic and elves!"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/35480/the-brothers-karamazov-by-dostoyevsky-fyodor/9780141915685",
+    "title": "The Brothers Karamazov",
+    "authors": "Fyodor Dostoyevsky",
+    "description": "A depiction of the darkest recesses of human nature. But also of the brightest ones…\n\nLuca C, Facebook"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/369722/buddenbrooks-by-mann-thomas/9780749386474",
+    "title": "Buddenbrooks",
+    "authors": "Thomas Mann",
+    "description": "It’s a great novel about the rise and fall of a family, the relationship between fathers and sons, and the conflict between art and business. Well, and I have to say I do love family sagas."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/55505/lolita-by-vladimir-nabokov-afterword-by-craig-raine/9780141182537",
+    "title": "Lolita",
+    "authors": "Vladimir Nabokov",
+    "description": "Beautifully written. The book takes you into the mind of this awful character and lets you roll around in the gorgeous word-play as the story unfurls."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/414550/the-secret-garden-by-frances-hodgson-burnett/9780099572954",
+    "title": "The Secret Garden",
+    "authors": "Frances Hodgson Burnett",
+    "description": "I will never forget reading this book as a child. I felt I was in the middle of the story."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/57159/scoop-by-waugh-evelyn/9780141184029",
+    "title": "Scoop",
+    "authors": "Evelyn Waugh",
+    "description": "A funny story wrapped around absurdity, journalism and war.\n\nGuy V, Facebook"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/448031/love-in-a-cold-climate-and-the-pursuit-of-love-by-mitford-nancy/9781841594040",
+    "title": null,
+    "authors": null,
+    "description": "Escapism to a world that bears no resemblance to mine. Razor sharp wit and bonkers characters. The novel set the standard for modern romantic comedy novel that has never been bettered."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/183859/a-tale-of-two-cities-by-charles-dickens/9780141199702",
+    "title": "A Tale of Two Cities",
+    "authors": "Charles Dickens",
+    "description": "Sitting alone at 16 years old after the family had gone to bed,  tears streamed down my cheeks as I finished this novel.\n\nPat C, Facebook"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/25437/the-diary-of-a-nobody-by-grossmith-george-grossmith-and-weedon/9780241956861",
+    "title": "The Diary of a Nobody",
+    "authors": "George Grossmith",
+    "description": "I have read this book so many times and laugh out loud every time. I have a Penguin Classic copy of it that's falling apart but I wouldn't part with it for the world"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/434376/anna-karenina-vintage-classic-russians-series-by-tolstoy-leo/9781784871956",
+    "title": "Anna Karenina (Vintage Classic Russians Series)",
+    "authors": "Leo Tolstoy",
+    "description": "Simply the best in-depth characterisation of all time. Tolstoy's psychological insights have never been beaten.\n\nChris W, Facebook"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/34930/the-betrothed-by-alessandro-manzoni-trans-bruce-penman-intro-bruce-penman/9780141904177",
+    "title": "The Betrothed",
+    "authors": "Alessandro Manzoni",
+    "description": "This book is on the verge of being forgotten by casual readers, but it’s entertaining, socially and scientifically progressive for its time, has incredibly moving, beautifully-written passages on bread riots and the plague, and it has the best surprise trope-subversion at the end.\n\nShawna R, Facebook"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/57180/orlando-by-woolf-virginia/9780241436301",
+    "title": "Orlando",
+    "authors": "Virginia Woolf",
+    "description": "What is it to be a woman? Woolf's modernist novel is so fresh even 90 or so years later. Gender fluidity before the term was even coined. And a history of literature as a backdrop."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/57553/atlas-shrugged-by-ayn-rand/9780141188935",
+    "title": "Atlas Shrugged",
+    "authors": "Ayn Rand",
+    "description": "This book engages the reader through its characters and themes, allowing one to be entranced through this cautionary tale that can be applied to the modern world.\n\nDeanna H, Facebook"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/55966/the-time-machine-by-hg-wells-notes--steve-maclean-text--patrick-parrinder-intro--marina-warner/9780141439976",
+    "title": "The Time Machine",
+    "authors": "H G Wells",
+    "description": "A story of knowledge, education, and imagining a future."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/175567/the-art-of-war-by-sun-tzu/9780143105756",
+    "title": "The Art of War",
+    "authors": "Tzu Sun",
+    "description": "This should be called the little book of common sense. It makes everything easier to understand."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/57173/the-forsyte-saga-by-john-galsworthy/9780141184180",
+    "title": "The Forsyte Saga",
+    "authors": "John Galsworthy",
+    "description": "This book gives you a wonderful impression of life in the 19th and early 20th century. It’s both enthralling and touching."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/57345/travels-with-charley-by-steinbeck-john/9780141190662",
+    "title": "Travels with Charley",
+    "authors": "John Steinbeck",
+    "description": "One of the true first ‘road’ books – a search for the spirit of the ordinary American people."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/280164/tropic-of-cancer-by-henry-miller/9780141399133",
+    "title": "Tropic of Cancer",
+    "authors": "Henry Miller",
+    "description": "Loud, funny, sexual Paris in the 1930s. I read it when I was 20, and it changed the way I look at the world."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/35465/don-quixote-by-cervantes-miguel/9780241347768",
+    "title": "Don Quixote",
+    "authors": "Miguel Cervantes",
+    "description": "The comedy, insight, versatility, inspiration for other writers and more. The fact that a 17th-century work can feel so fresh. Such a light read if you want it to be, but filled with details if you want to research historical background, and literary traditions."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/357371/staying-on-by-scott-paul/9780099443193",
+    "title": "Staying On",
+    "authors": "Paul Scott",
+    "description": "A funny, tragic, beautifully written study of an English colonial married couple left behind as an independent India moves ahead."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/414549/the-wind-in-the-willows-by-kenneth-grahame/9780099572947",
+    "title": null,
+    "authors": null,
+    "description": "You can enjoy this book at any age – and it’s beautifully written."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/355456/the-quiet-american-by-graham-greene/9780099478393",
+    "title": "The Quiet American",
+    "authors": "Graham Greene",
+    "description": "Everything that is brilliant about Graham Greene can be found in this book, the opening two paragraphs are a perfect example of the difference between fiction and literature."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/183707/wuthering-heights-by-bronte-emily/9780141199085",
+    "title": "Wuthering Heights",
+    "authors": "Emily Brontë",
+    "description": "Beautiful, atmospheric, poignant, gripping, and with one of the most beautifully written last two paragraphs I have ever read."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/55512/perfume-by-patrick-suskind/9780241420294",
+    "title": "Perfume",
+    "authors": "Patrick Süskind",
+    "description": "A story of suspense and love, with beautiful narration."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/276485/the-adventures-of-huckleberry-finn-by-twain-mark/9780143107323",
+    "title": "The Adventures of Huckleberry Finn",
+    "authors": "Mark Twain",
+    "description": "This book demonstrates how a young boy learns to think for himself, and shows us how we can, too. It’s funny, sweet and sad – sometimes all in the same paragraph."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/355373/of-human-bondage-by-maugham-w-somerset/9780099284963",
+    "title": "Of Human Bondage",
+    "authors": "W. Somerset Maugham",
+    "description": "A compelling story of unreciprocated love."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/60346/bleak-house-by-charles-dickens-ed-nicola-bradbury-intro-nicola-bradbury-preface-professor-terry-eagleton/9780141198354",
+    "title": "Bleak House",
+    "authors": "Charles Dickens",
+    "description": "The characters, the rage at injustice of so many kinds, and spontaneous human combustion!"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/1156/sense-and-sensibility-by-austen-jane/9780141439662",
+    "title": "Sense and Sensibility",
+    "authors": "Jane Austen",
+    "description": "I found the themes of the role of women in society interesting. Despite being 200+ years old, it is as relevant today as it was when written, and that must interest everyone, surely?"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/183818/the-picture-of-dorian-gray-by-wilde-oscar/9780141199498",
+    "title": "The Picture of Dorian Gray",
+    "authors": "Oscar Wilde",
+    "description": "It was the first classic I ever read as a young teen and blew my expectations of classics being 'dry old books' out of the water! Gripping, dark, scandalous, and witty, it's been my favourite book ever since"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/56170/a-christmas-carol-by-dickens-charles/9780241411193",
+    "title": "A Christmas Carol",
+    "authors": "Charles Dickens",
+    "description": "A masterpiece. The ultimate story of hope and redemption."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/184001/silas-marner-by-george-eliot/9780141389455",
+    "title": "Silas Marner",
+    "authors": "George Eliot",
+    "description": "Redemption and love. Beautifully written"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/353644/mrs-dalloway-by-woolf-virginia/9780099470458",
+    "title": "Mrs Dalloway",
+    "authors": "Virginia Woolf",
+    "description": "A reminder that no life is too small."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/284437/little-women-by-alcott-louisa-may/9780147514011",
+    "title": "Little Women",
+    "authors": "Louisa May Alcott",
+    "description": "A story of growing up and changing and the world set around a group of young girls. This book is as timeless as it is beautiful.  Luke E, X (formerly Twitter)"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/353448/the-sea-the-sea-by-iris-murdoch/9780099284093",
+    "title": "The Sea, The Sea",
+    "authors": "Iris Murdoch",
+    "description": "This book left me speechless while reading and after reading and I still can't find the words to describe why it is one of the most impressive pieces of writing I have ever read.  H, X (formerly Twitter)"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/256481/david-copperfield-by-dickens-charles/9780141394640",
+    "title": "David Copperfield",
+    "authors": "Charles Dickens",
+    "description": "I love everything about this book, from the wonderful characters to the sweeping story, it's like a comfy pair of slippers that I return to time and again knowing I won't be disappointed. Alison, newsletter reader"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/57104/the-castle-by-kafka-franz/9780241197806",
+    "title": "The Castle",
+    "authors": "Franz Kafka",
+    "description": null
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/57530/i-claudius-by-robert-graves-intro--barry-unsworth/9780141188591",
+    "title": "I, Claudius",
+    "authors": "Robert Graves",
+    "description": "A beautifully written novel about absolute power. Very relevant."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/438369/i-know-why-the-caged-bird-sings-by-maya-angelou/9781787531642",
+    "title": "I Know Why the Caged Bird Sings",
+    "authors": "Maya Angelou",
+    "description": "Heartbreaking and funny and definitely a classic."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/57049/a-confederacy-of-dunces-by-john-kennedy-toole-foreword-by-walker-percy/9780141182865",
+    "title": "A Confederacy of Dunces",
+    "authors": "John Kennedy Toole",
+    "description": "I chose this book just because the characters are fantastic, and it makes me laugh."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/355365/the-razors-edge-by-maugham-w-somerset/9780099284864",
+    "title": "The Razor's Edge",
+    "authors": "W. Somerset Maugham",
+    "description": "A profound story of one man’s journey to find himself."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/56565/lark-rise-to-candleford-by-flora-thompson-intro-r-mabey/9780141183312",
+    "title": "Lark Rise to Candleford",
+    "authors": "Flora Thompson",
+    "description": null
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/403741/return-of-the-native-by-thomas-hardy/9780099518983",
+    "title": "Return of the Native",
+    "authors": "Thomas Hardy",
+    "description": "I chose this book because Eustacia Vye is misunderstood - as are many women."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/57029/a-portrait-of-the-artist-as-a-young-man-by-joyce-james/9780141182667",
+    "title": "A Portrait of the Artist as a Young Man",
+    "authors": "James Joyce",
+    "description": "Joyce is not only the greatest stylist in English, but the novel contains one of the most complex discussions of aesthetics in the 20th century.  Donald K, X (formerly Twitter)"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/395979/heart-of-darkness-by-conrad-joseph/9780099511540",
+    "title": "Heart of Darkness",
+    "authors": "Joseph Conrad",
+    "description": "What an amazing piece of writing from someone who had to learn the language first..."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/395988/north-and-south-by-gaskell-elizabeth/9780099511489",
+    "title": "North and South",
+    "authors": "Elizabeth Gaskell",
+    "description": "This novel combines a beautiful love story and discussion of important economical and social issues of its time.  Alina, X (formerly Twitter)"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/354755/the-handmaids-tale-by-margaret-atwood/9781784873189",
+    "title": "The Handmaid's Tale",
+    "authors": "Margaret Atwood",
+    "description": "I chose this book because it gives a feminist perspective on the world. Also, Atwood uses events from history to create the story, which I find important. History is a circle.  Emma H, X (formerly Twitter)"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/56260/giovannis-room-by-james-baldwin/9780141032948",
+    "title": "Giovanni's Room",
+    "authors": "James Baldwin",
+    "description": "The aesthetics and effect are breathtaking."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/353371/the-godfather-by-mario-puzo/9780099528128",
+    "title": "The Godfather",
+    "authors": "Mario Puzo",
+    "description": "This novel teaches the reader about the strengths and failures of human nature.Louisa J, X (formerly Twitter)"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/183998/the-woman-in-white-by-wilkie-collins/9780141389431",
+    "title": "The Woman in White",
+    "authors": "Wilkie Collins",
+    "description": "So much plot! Fantastic characters. An irresistible villain and a mysterious secret. What's not to love?"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/354618/one-day-in-the-life-of-ivan-denisovich-by-aleksandr-solzhenitsyn/9780099449270",
+    "title": "One Day in the Life of Ivan Denisovich",
+    "authors": "Aleksandr Solzhenitsyn",
+    "description": "Solzhenitsyn’s writing from personal experience of life/existence in a forced labour camp under Stalin's communist regime is a stark, brutal, masterpiece."
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/292382/white-nights-by-dostoyevsky-fyodor/9780241252086",
+    "title": "White Nights",
+    "authors": "Fyodor Dostoyevsky",
+    "description": "This is an incredibly beautiful and uplifting book. Everyone should read it!"
+  },
+  {
+    "link": "https://www.penguin.co.uk/books/183830/hard-times-by-charles-dickens/9780141199566",
+    "title": "Hard Times",
+    "authors": "Charles Dickens",
+    "description": "Pathos, humour, social comment, politic and incredibly well-drawn, believable characters"
+  }
+]

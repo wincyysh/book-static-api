@@ -1,0 +1,30 @@
+[
+  {
+    "id": "9781510722989",
+    "title": "The Real Happy Pill",
+    "authors": ["Anders Hansen"],
+    "description": "Is there a foolproof way to reduce stress and anxiety while you boost your memory? Raise your IQ even as you slow down the aging process? Become more creative and train your ability to focus at the same time? The answer is simple: Move! Modern neuroscience and research has shown, more than ever, that physical exercise has extraordinary effects on our cognition.",
+    "coverImage": "https://m.media-amazon.com/images/I/71r9vIvh0DL.jpg"
+  },
+  {
+    "id": "9782355221699",
+    "title": "La fabrique du consommateur",
+    "authors": ["Anthony Galluzzo"],
+    "description": "Vers 1800, la plupart des Français étaient des paysans qui construisaient eux-mêmes leur maison, récoltaient leurs céréales, pétrissaient leur pain et tissaient leurs vêtements. Aujourd'hui, l'essentiel de ce que nous consommons est produit par un réseau de grandes et lointaines entreprises. En deux siècles à peine, la communauté paysanne autarcique s'est effacée pour laisser place à une myriade de consommateurs urbains et connectés.",
+    "coverImage": "https://www.interforum.fr/images/DEC/P3/9782355221422.jpg"
+  },
+  {
+    "id": "9789020621075",
+    "title": "Lieve Stine, weet jij het?",
+    "authors": ["Stine Eilskov Jensen"],
+    "description": "Wat zegt jouw kledingstijl over jou? Moet je altijd naar je ouders luisteren? Filosofe Stine Jense beantwoordt twintig vragen van kinderen van 10 t/m 12 jaar, soms met opdrachtjes. Met stripachtige illustraties. Vanaf ca. 10 jaar.",
+    "coverImage": "https://www.deslegte.com/images/cached/resample/webp/data/uploads/407/514/cms_visual_233444.jpg_1429070621000_407x514_0.8_p-6bf8df2e47.webp"
+  },
+  {
+    "id": "9780765375704",
+    "title": "Ender's Game",
+    "authors": ["Orson Scott Card"],
+    "description": "Ender's Game is a 1985 military science fiction novel by American author Orson Scott Card. Set at an unspecified date in Earth's future, the novel presents an imperiled humankind after two conflicts with an insectoid alien species they dub "the buggers".",
+    "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1408303130i/375802.jpg"
+  }
+]
